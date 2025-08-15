@@ -23,8 +23,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40" style="vertical-align:middle;"/>
 </a>
-<a href="https://railway.com/brand/logo-light.svg" target="_blank" rel="noreferrer">
-  <img src="" alt="railway" width="40" height="40" style="vertical-align:middle;"/>
+<a href="https://railway.com" target="_blank" rel="noreferrer">
+  <img src="https://railway.com/brand/logo-light.svg" alt="railway" width="40" height="40" style="vertical-align:middle;"/>
 </a>
 </p>
 
