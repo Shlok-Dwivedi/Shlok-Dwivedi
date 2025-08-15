@@ -20,11 +20,11 @@
 </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <!-- <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> -->
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/vercel-icon.svg" alt="mysql" width="40" height="40" style="vertical-align:middle;"/>
-</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="railway" width="40" height="40" style="vertical-align:middle;"/>
+  <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="40" style="vertical-align:middle;"/>
+</a>
+<a href="" target="_blank" rel="noreferrer">
+  <img src="" alt="railway" width="40" height="40" style="vertical-align:middle;"/>
 </a>
 </p>
 
