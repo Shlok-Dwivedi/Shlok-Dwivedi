@@ -34,6 +34,8 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="100px" height="100px" />
   <img src="https://developers.google.com/static/profile/badges/playlists/tensorflow/badge.svg" width="100px" height="100px" />
+  
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100px" height="100px" />
   <!--<img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
   <img src="https://images.credly.com/size/680x680/images/9254c205-669b-4ce8-8a3b-f4a8a66ebaec/image.png" width="100px" height="100px" />
